@@ -11,7 +11,7 @@ NOTE - The code is not the cleanest, but might as well stick it here for referen
 
 ## Features
 - 3 Voice modes
-- - String
+  String
 
 ## Ideas for next time / lessons / Thoughts
 
