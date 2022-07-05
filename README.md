@@ -10,8 +10,17 @@ Inspired by an installation at the Santa Fe Meow Wolf. It's basically just 8 las
 NOTE - The code is not the cleanest, but might as well stick it here for reference in case it helps anyone. 
 
 ## Features
-- 3 Voice modes
-  <br>String
+- 3 Voice modes: <br>
+  <br>String - Harp-y sounds
+  <br>Drumn  - Weird laser noises really... I didn't flesh this one out
+  <br>Synth  - Mellow / Ambient synth sounds. Slow attack, long release.
+- Adjustable reverb level
+- 3 Play Modes: <br>
+  <br> Standard - for the string & drum voices, breaking a laser doesn't play a sound, when you UN break the laser, the sound plays taking into account the broken time, which factors into the sound release time. For the synth, the attack phase starts when the laser is broken, and when unbroken it releases.
+  <br> Tremelo - rapidly plays the broken note
+  <br> Arpish - Like tremelo, but plays an arppegio
+- Theremin mode: <br>
+<br>
 
 ## Ideas for next time / lessons / Thoughts
 
