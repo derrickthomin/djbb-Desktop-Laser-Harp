@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Scripts"
+		},
+		{
+			"name": "ztest_PIO",
+			"path": "../../ztest_PIO"
+		},
+		{
+			"name": "Laser_Harp_Main_PIO",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
